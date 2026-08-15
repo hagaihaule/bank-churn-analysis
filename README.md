@@ -48,7 +48,7 @@ Run a short pilot on one high-risk segment (for example, inactive German custome
 ## Dashboard
 🔗 **[View the live interactive dashboard](https://public.tableau.com/views/BANKCUSTOMERCHURNANALYSIS_17866670959890/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-![Dashboard preview](link-to-screenshot-if-you-add-one.png)
+![Dashboard preview](dashboard-preview.png)
 
 ## What I'd Explore Next
 - Whether the 1-product churn gap in Germany relates to specific demographics (age, balance, credit score)
