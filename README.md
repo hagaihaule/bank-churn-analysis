@@ -3,7 +3,6 @@
 ## Overview
 This project looks at why customers leave a retail bank, using a dataset of 10,000 customers. I wanted to find out which customers are most likely to churn, and why ?.The kind of question a bank's retention team would actually care about.
 
-This was my first full data analytics project, built to apply what I learned in the Google Data Analytics Certificate on real data, from raw numbers to a published dashboard.
 
 ## Tools Used
 - **SQL (Google BigQuery)** — analyzing the data
